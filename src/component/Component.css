@@ -1,0 +1,20 @@
+.col-white {
+    color: #fff !important;
+}
+
+.bg-black {
+    background-color: #000;
+}
+
+.bd-ra-4 {
+    border-radius: 2px;
+}
+
+.mg-bot-8 {
+    margin-bottom: 8px;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+}
